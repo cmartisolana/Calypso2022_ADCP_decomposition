@@ -50,10 +50,10 @@ plots/                       # Output figures
    pip install numpy scipy xarray matplotlib cmocean scienceplots statsmodels
    ```
 
-2. **Install `ADCPySpec` from this repository:**
-   Clone or download the `ADCPySpec` module from your repository and ensure it is available in your `PYTHONPATH` or in the `codes/` directory. For example:
+2. **Install `ADCPySpec`:**
+   Clone or download the [`ADCPySpec` module](https://github.com/cmartisolana/ADCPySpec) and ensure it is available in your `PYTHONPATH` or in the `codes/` directory. For example:
    ```sh
-   git clone https://github.com/yourusername/ADCPySpec.git
+   git clone https://github.com/cmartisolana/ADCPySpec.git
    export PYTHONPATH=$PYTHONPATH:/path/to/ADCPySpec
    ```
    Or copy the `ADCPySpec` directory into your `codes/` folder.
