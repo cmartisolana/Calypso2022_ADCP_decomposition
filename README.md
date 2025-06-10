@@ -1,4 +1,4 @@
-# ADCP_decomposition
+# Spectral Helmoltz decomposition for CALYPSO 2022 ADCP data
 
 Spectral decomposition and analysis of ADCP (Acoustic Doppler Current Profiler) data for oceanographic research.
 
