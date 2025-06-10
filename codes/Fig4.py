@@ -47,4 +47,4 @@ plt.yscale("log")
 
 plt.legend(fontsize=8, loc="upper right")
 
-plt.savefig("plots/FIGphases.pdf", dpi=500)
+plt.savefig("plots/FIG4.png", dpi=400)
